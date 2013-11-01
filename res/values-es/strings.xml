@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+
+    <string name="app_name">StartActivityForResult - danielme.com</string>
+    <string name="error">escribe algo ;)</string>
+    <string name="editText">Editar Texto</string>
+    <string name="text">Añadir texto</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+
+</resources>
